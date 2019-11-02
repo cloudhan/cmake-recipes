@@ -18,3 +18,4 @@
 3. [Effective CMake](https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf)
 4. [More Modern CMake: Working with CMake 3.12 and Later](https://meetingcpp.com/mcpp/slides/2018/MoreModernCMake.pdf)
 5. [Deep CMake for Library Authors](https://github.com/CppCon/CppCon2019/blob/master/Presentations/deep_cmake_for_library_authors/deep_cmake_for_library_authors__craig_scott__cppcon_2019.pdf)
+6. [It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right)
